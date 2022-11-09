@@ -27,7 +27,7 @@
 
 :briefcase: &nbsp; ***Working as a Big Data Engineer @ Axiata Digital Labs***
 
-:computer: &nbsp; ***As an Artificial Intelligence and Mathematics enthusiasm, I have hands on experience with Modeling, Training, Deploying Deep learning & Machine Learning algorithms related to NLP, Data Science, Computer Vision on Mobile Applications and Embedded Systems (TinyML)***
+:computer: &nbsp; ***Have hands on experience with Modeling, Training, Deploying Deep learning & Machine Learning algorithms related to NLP, Data Science, Computer Vision on Mobile Applications and Embedded Systems (TinyML)***
 
 #
 <br/>
