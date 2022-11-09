@@ -18,13 +18,13 @@
 
 :briefcase: &nbsp; ***Working as a Big Data Engineer @ Axiata Digital Labs***
 
-:computer: &nbsp; ***As an Artificial Intelligence and Mathematics enthusiasm, I have hands on experience with Modeling, Training, Deploying Deep learning & Machine Learning algorithms related to NLP, Data Science, Computer Vision on Mobile Applications and Embedded Systems (TinyML)***<br/><br/>
+:computer: &nbsp; ***As an Artificial Intelligence and Mathematics enthusiasm, I have hands on experience with Modeling, Training, Deploying Deep learning & Machine Learning algorithms related to NLP, Data Science, Computer Vision on Mobile Applications and Embedded Systems (TinyML)***
 
 <br/>
 
 > ### <sup> SKILLS & EXPERIENCES </sup>
 
-:computer: &nbsp; ***Deep Learning*** | ***Natural Language Processing*** | ***Data Science*** | ***Data Engineering*** | ***Internet of Things*** | ***TinyML*** | ***Android***
+:computer: &nbsp; ***Deep Learning*** | ***NLP*** | ***Data Science*** | ***Data Engineering*** | ***Internet of Things*** | ***TinyML*** | ***Android***
 
 <br/>
 
@@ -38,6 +38,7 @@
 ![github](https://github.com/1zuu/1zuu/blob/main/desktop.png)
 
 </div>
+<br/>
 
 > ### <sup> TOOLS : </sup>
 
@@ -81,7 +82,7 @@
 <div align=left>
 
 > ### <sup> GITHUB STATS : </sup>
-
+<br/>
 </div>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1zuu&layout=compact&theme=vision-friendly-dark)](https://github.com/1zuu/github-readme-stats)
