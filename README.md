@@ -38,7 +38,7 @@
   
 <br/>
 
-<div align=left>
+<div align=center>
 
 ![github](https://github.com/1zuu/1zuu/blob/main/ai.png)
 ![github](https://github.com/1zuu/1zuu/blob/main/deep-learning.png)
@@ -56,7 +56,7 @@
 
 <br/>
 
-<div align=left>
+<div align=center>
 
 ![github](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![github](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
