@@ -53,7 +53,7 @@
 #
 <br/>
 
-> ### <sup> TOOLS : </sup>
+> ### <sup> TOOLS </sup>
 
 <br/>
 
@@ -78,7 +78,7 @@
 </div>
 <div align=left>
 
-> ### <sup> GITHUB STATS : </sup>
+> ### <sup> GITHUB STATS </sup>
 <br/>
 </div>
 
