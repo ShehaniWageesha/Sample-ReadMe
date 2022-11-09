@@ -35,7 +35,7 @@
 > ### <sup> SKILLS & EXPERIENCES </sup>
 
 :computer: &nbsp; ***Deep Learning*** | ***NLP*** | ***Data Science*** | ***Data Engineering*** | ***Internet of Things*** | ***TinyML*** | ***Android***
-
+  
 <br/>
 
 <div align=left>
