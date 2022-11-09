@@ -1,14 +1,13 @@
 <div align=center>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+Isuru+here...)](https://git.io/typing-svg)
+  
+` DATA ENGINEER  |  ARTIFICIAL INTELLIGENCE DEVELOPER `
 
 <img src="https://user-images.githubusercontent.com/66903669/200928633-837ca340-99fc-4e95-8d39-7bd360ab9f1e.gif" width="200" height="200"/>
 
 <br/>
   
-` DATA ENGINEER  |  ARTIFICIAL INTELLIGENCE DEVELOPER `
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zuu97)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/isuru-alagiyawanna-536881121/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100011256307924)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_1zuu_/)
