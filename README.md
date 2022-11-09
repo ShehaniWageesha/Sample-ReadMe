@@ -17,6 +17,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/isurualagiyawan2)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@isurualagiyawanna)  
  
+#
 <br/>
 
 <div align=left>
@@ -29,6 +30,7 @@
 
 :computer: &nbsp; ***As an Artificial Intelligence and Mathematics enthusiasm, I have hands on experience with Modeling, Training, Deploying Deep learning & Machine Learning algorithms related to NLP, Data Science, Computer Vision on Mobile Applications and Embedded Systems (TinyML)***
 
+#
 <br/>
 
 > ### <sup> SKILLS & EXPERIENCES </sup>
@@ -47,6 +49,8 @@
 ![github](https://github.com/1zuu/1zuu/blob/main/desktop.png)
 
 </div>
+
+#
 <br/>
 
 > ### <sup> TOOLS : </sup>
@@ -67,6 +71,8 @@
 ![github](https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg)
 
 </div>
+
+#
 <br/>
 
 </div>
