@@ -88,5 +88,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ShehaniWageesha&count_private=true&show_icons=true&theme=vision-friendly-dark)
 
+[![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShehaniWageesha&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 </div>
